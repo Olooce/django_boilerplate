@@ -1,6 +1,8 @@
 # Django Boilerplate - Simple Ajax CRUD
 
-A simple Django application based on [How to Implement CRUD Using Ajax and Json](https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html) with added Google Maps functionality.
+A simple Django application based
+on [How to Implement CRUD Using Ajax and Json](https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html)
+with added Google Maps functionality.
 
 ## Requirements
 
@@ -87,4 +89,5 @@ Visit http://localhost:8000 in your browser.
 
 ## Authors
 
-* **Ochomo William** - [ochomoswill](https://ochomoswill.github.io/) - Member of [Scedar Technologies Co.](https://scedar.bitbucket.io/)
+* **Ochomo William** - [ochomoswill](https://ochomoswill.github.io/) - Member
+  of [Scedar Technologies Co.](https://scedar.bitbucket.io/)

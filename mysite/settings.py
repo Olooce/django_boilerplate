@@ -19,6 +19,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # Load environment variables from .env file
 try:
     from dotenv import load_dotenv
+
     env_path = Path(BASE_DIR) / '.env'
     load_dotenv(dotenv_path=env_path)
 except ImportError:
