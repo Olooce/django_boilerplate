@@ -7,7 +7,6 @@ from django.db import migrations, models
 
 
 class Migration(migrations.Migration):
-
     initial = True
 
     dependencies = [
@@ -23,7 +22,8 @@ class Migration(migrations.Migration):
                 ('author', models.CharField(blank=True, max_length=30)),
                 ('price', models.DecimalField(decimal_places=2, max_digits=5)),
                 ('pages', models.IntegerField(blank=True, null=True)),
-                ('book_type', models.PositiveSmallIntegerField(blank=True, choices=[(1, 'Hardcover'), (2, 'Paperback'), (3, 'E-book')], null=True)),
+                ('book_type', models.PositiveSmallIntegerField(blank=True, choices=[(1, 'Hardcover'), (2, 'Paperback'),
+                                                                                    (3, 'E-book')], null=True)),
                 ('book_cover', models.ImageField(upload_to='book_cover_upload/%Y/%m/%d/')),
                 ('location', geoposition.fields.GeopositionField(max_length=42)),
             ],
