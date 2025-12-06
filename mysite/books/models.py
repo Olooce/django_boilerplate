@@ -1,8 +1,8 @@
 from __future__ import unicode_literals
 
-
 from django.db import models
 from geoposition.fields import GeopositionField
+
 
 class PointOfInterest(models.Model):
     name = models.CharField(max_length=100)
