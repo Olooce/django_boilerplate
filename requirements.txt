@@ -26,7 +26,7 @@ public==0.0.0
 pyglet==1.2.4
 PyMySQL==0.7.9
 pytz==2017.2
-requests==2.12.2
+requests==2.32.4
 rpyc==3.3.0
 setupfiles==0.0.0
 six==1.10.0
