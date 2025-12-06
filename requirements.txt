@@ -33,7 +33,7 @@ six==1.10.0
 touch==0.0.0
 Unidecode==0.4.20
 virtualenv==20.26.6
-wagtail==1.9
+wagtail==5.2.6
 webencodings==0.5.1
 Werkzeug==3.1.4
 Willow==0.4
