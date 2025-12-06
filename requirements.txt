@@ -18,7 +18,7 @@ gTTS-token==1.1.1
 html5lib==0.999999999
 isstring==0.0.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==3.1.6
 MarkupSafe==0.23
 Pillow==10.3.0
 plumbum==1.6.3
