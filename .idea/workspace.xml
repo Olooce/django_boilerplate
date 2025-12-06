@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65442781-faf9-46f7-a2bd-3dedf904e5b1" name="Default" comment="git commit -m &quot;Add environment configuration template&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -510,7 +511,7 @@
       <option name="presentableId" value="Default" />
       <updated>1504348230572</updated>
       <workItem from="1765005893646" duration="1512000" />
-      <workItem from="1765007415379" duration="2696000" />
+      <workItem from="1765007415379" duration="3386000" />
     </task>
     <task id="LOCAL-00001" summary="chore: upgrade dependencies">
       <option name="closed" value="true" />
@@ -528,7 +529,15 @@
       <option name="project" value="LOCAL" />
       <updated>1765009557082</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git commit -m &quot;Add environment configuration template&quot;">
+      <option name="closed" value="true" />
+      <created>1765010409346</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765010409346</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
