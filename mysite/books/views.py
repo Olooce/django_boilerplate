@@ -1,9 +1,9 @@
-from django.shortcuts import render, get_object_or_404
 from django.http import JsonResponse
+from django.shortcuts import render, get_object_or_404
 from django.template.loader import render_to_string
 
-from .models import Book
 from .forms import BookForm
+from .models import Book
 
 
 def book_list(request):
